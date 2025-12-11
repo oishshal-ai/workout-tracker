@@ -11,11 +11,6 @@ This app allows users to log workouts and track progress.
 
 ---
 
-## Motivation
-As an athlete and developer, I wanted to combine my passion for training with my programming journey. I train for water polo and rock climbing through a combination of swimming, water polo practice, climbing, and weight training. This project demonstrates full-stack skills while allowing tracking of unique aspects of each type of training.
-
----
-
 ## Current Functionality
 - **Routing**
 - **State Management**
